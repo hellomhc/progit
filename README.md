@@ -6,3 +6,5 @@ This is from HELLOMHC.
 
 # cho1072011244
 1. This is a first writing.
+2. This is a second writing.
+3. This is a third writing.
